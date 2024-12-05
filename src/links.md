@@ -5,7 +5,8 @@
 ## 回路関連
 >
 ## 制御・プログラム関連
->[Rust 入門 基礎からまとめたホームページ](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003/viewer/6d5875)
+>[Rust 入門 基礎からまとめたホームページ (zenn)](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003/viewer/6d5875)
+>[Rust 組み込み関係のページ (zenn)](https://zenn.dev/oyatomo/articles/56c468e3dae152)
 
 
 -------------------------------------
