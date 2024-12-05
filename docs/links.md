@@ -15,4 +15,4 @@
 
 目次
 -----------------------------------------------------
-[READMEに戻る](https://github.com/kAikvvf/my-webpage/blob/main/README.md)
+[READMEに戻る](README.md)
