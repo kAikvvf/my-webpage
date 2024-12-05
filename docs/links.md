@@ -9,7 +9,7 @@
 
 >[Rust 組み込み関係のページ (zenn)](https://zenn.dev/oyatomo/articles/56c468e3dae152)
 
->[プログラムのことをまとめたメモ](programs-memo.md)>
+>[プログラムのことをまとめたメモ](programs-memo.md)
 
 >[STM32 Rust 開発環境構築方法 僕がやったやつ](https://zeptoelecdesign.com/rust-embedded2/)
 
