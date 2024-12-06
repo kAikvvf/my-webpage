@@ -22,3 +22,5 @@
 
 ## その他
 >[GIGAZINE](https://gigazine.net/)
+
+>[ZENN](https://zenn.dev/)
