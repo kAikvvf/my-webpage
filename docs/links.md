@@ -22,5 +22,3 @@
 
 ## その他
 >[GIGAZINE](https://gigazine.net/)
-
->[]()
